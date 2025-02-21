@@ -1,7 +1,7 @@
 
 // import './App.css';
 // import Main from './Components/task29-01/Main';
-// import Main from './Components/Task/Main';
+import Main from './Components/Task/Main';
 // import FetchData3 from './Components/FetchApi/FetchData3';
 // import FetchData2 from './Components/FetchApi/FetchData2';
 // import FetchData1 from './Components/FetchApi/FetchData1';
@@ -22,7 +22,7 @@ function App() {
         {/* <FetchData2/> */}
         {/* <FetchData3/> */}
         {/* <Main/> */}
-        {/* <Main/> */}
+        <Main/> 
         {/* <MainComponent/> */}
 
       {/* <Login/> */}
