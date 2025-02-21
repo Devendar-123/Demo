@@ -1,0 +1,323 @@
+[
+  {
+    "id": 1,
+    "name": "Red Lentil Curry",
+    "image": "https://www.realsimple.com/thmb/sE57h9l7YD1ury6vMpOz4wPiZFM=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/curry-red-lentil-af458e67cf7a482bbd26806d0efc5dd4.jpg",
+    "ingredients": ["red lentils", "carrots", "potatoes", "garlic"],
+    "prepTime": 20,
+    "type": "veg-materials",
+    "price":250,
+    "Ratting":"⭐⭐⭐⭐"
+  },
+  {
+    "id": 2,
+    "name": "Photo: CAITLIN BENSEL",
+    "image": "https://www.realsimple.com/thmb/sE57h9l7YD1ury6vMpOz4wPiZFM=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/curry-red-lentil-af458e67cf7a482bbd26806d0efc5dd4.jpg",
+    "ingredients": ["potato", "red chilli", "soy sauce", "garlic"],
+    "prepTime": 30,
+    "type": "veg-materials",
+    "price":200,
+    "Ratting":"⭐⭐⭐"
+    
+  },
+  {
+    "id": 3,
+    "name": "Sesame-Crusted Tofu With Spicy Dipping Sauce",
+    "image": "https://www.realsimple.com/thmb/cfQAqfSem0S8b5G730SO-GM_0QU=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sesame-crusted-tofu-with-spicy-dipping-sauce-1022FOO-2000-f18fecd4a41f456b8544c1712a0a98af.jpg",
+    "ingredients": ["sesame seeds", "five-spice powder", "cornstarch", "garlic","chilli dipping sauce"],
+    "prepTime": 40,
+    "type": "veg-materials",
+    "price":390,
+    "Ratting":"⭐⭐⭐⭐"
+  },
+  {
+    "id": 4,
+    "name": "Curry Tomato Soup With Naan Croutons",
+    "image": "https://www.realsimple.com/thmb/jBb_xvPDGgXhZ_UWY8Qmyv7Z4iY=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/RS1224DINN_0744_Curry-Tomato-Soup-with-Naan-Croutons_preview-9399fc03396e4a15a1eaac1531a7db50.jpg",
+    "ingredients": ["Tomato", "onion", "butter", "garlic"],
+    "prepTime": 30,
+    "type": "veg-materials",
+    "price":455,
+    "Ratting":"⭐⭐"
+  },
+  {
+    "id": 5,
+    "name": "Red Lentil Curry",
+    "image": "https://www.realsimple.com/thmb/sE57h9l7YD1ury6vMpOz4wPiZFM=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/curry-red-lentil-af458e67cf7a482bbd26806d0efc5dd4.jpg",
+    "ingredients": ["red lentils", "carrots", "potatoes", "garlic"],
+    "prepTime": 20,
+    "type": "veg-materials",
+    "price":250,
+    "Ratting":"⭐⭐⭐⭐"
+  },
+  {
+    "id": 6,
+    "name": "Butternut Squash Tartines",
+    "image": "https://www.realsimple.com/thmb/Z-FStC_9okULKPdoAhAh_AN0bm8=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/real-simple-butternut-squash-tartines-recipe-1222FOO-70f2d631457d46fcb7173df44fd93639.jpg",
+    "ingredients": ["olive oil", "ricota", "cheese", "garlic","lemon zest","black pepper"],
+    "prepTime": 35,
+    "type": "veg-materials",
+    "price":432,
+    "Ratting":"⭐⭐⭐"
+  },
+  {
+    "id": 7,
+    "name": "Sweet Potato and Black Bean Breakfast Tacos",
+    "image": "https://www.realsimple.com/thmb/KUzfSLnsw7l_nwjw0QZeFbzDAes=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/0924FEAT-Sweet-Potato-Black-Bean-Breakfast-Tacos-d2e18b59d0154faa9ede69f0c48ecc64.jpg",
+    "ingredients": ["sweet potatoes", "canned black beans", "avocado", "garlic" ,"eggs"],
+    "prepTime": 20,
+    "type": "veg-materials",
+    "price":250,
+    "Ratting":"⭐⭐⭐⭐"
+  },
+  {
+    "id": 8,
+    "name": "Khichdi",
+    "image": "https://www.realsimple.com/thmb/o0kjVxqW3phn1U9RJzNxVVbne6M=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/0423-feat-use-it-up-Khichdi-36cf7383ec6c45569ee8bb2d90c68d9d.jpg",
+    "ingredients": ["rice", "split mung beans", "red lentils", "garlic" ,"vegetables"],
+    "prepTime": 50,
+    "type": "veg-materials",
+    "price":674,
+    "Ratting":"⭐⭐⭐"
+  },
+  {
+    "id": 9,
+    "name": "Fennel, Leek, and Wild Mushroom Gratin",
+    "image": "https://www.realsimple.com/thmb/VmkR_98ULDvj9iRm4B7fPA4ce_E=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1223FEA-Fennel-Leek-and-Mushroom-Gratin-c6b710c0089f4f6bac84ac3d3e0ac489.jpg",
+    "ingredients": ["wild mushrooms", "Gruyere", "parmeson cheese", "garlic" ,"fennel"],
+    "prepTime": 20,
+    "type": "veg-materials",
+    "price":675,
+    "Ratting":"⭐⭐"
+  },
+  {
+    "id": 10,
+    "name": "Keema Mattar (Ground Meat with Peas)",
+    "image": "https://thefoodfairy.wordpress.com/wp-content/uploads/2012/09/img_0679.jpg?w=768&h=576",
+    "ingredients": ["chicken", "curry powder", "green beans", "onions"],
+    "prepTime": 40,
+    "type": "nonveg-materials",
+    "price":453,
+    "Ratting":"⭐⭐⭐⭐"
+  },
+  {
+    "id": 11,
+    "name": "Chicken Curry with Yogurt (Dahi Chicken)",
+    "image": "https://thefoodfairy.wordpress.com/wp-content/uploads/2012/08/dsc_82061.jpg?w=768&h=510",
+    "ingredients": ["chicken", "curry powder", "chillis", "onions"],
+    "prepTime": 48,
+    "type": "nonveg-materials",
+    "price":324,
+    "Ratting":"⭐⭐⭐"
+  },
+  {
+    "id": 12,
+    "name": "Kale Keema Fried Rice ",
+    "image": "https://thefoodfairy.wordpress.com/wp-content/uploads/2020/05/img_5296.jpeg?w=1024&h=876",
+    "ingredients": ["chicken", "curry powder", "ghee", "onions","Beet raita"],
+    "prepTime": 38,
+    "type": "nonveg-materials",
+    "price":250,
+    "Ratting":"⭐⭐"
+  },
+  {
+    "id": 13,
+    "name": "Keema with Kale & Spinach",
+    "image": "https://thefoodfairy.wordpress.com/wp-content/uploads/2020/04/img_5176.jpeg?w=903&h=1024",
+    "ingredients": ["mutton", "curry powder", "spinach", "onions"],
+    "prepTime": 55,
+    "type": "nonveg-materials",
+    "price":567,
+    "Ratting":"⭐⭐⭐⭐"
+  },
+  {
+    "id": 14,
+    "name": "Spicy Mutton Curry",
+    "image": "https://thefoodfairy.wordpress.com/wp-content/uploads/2015/12/yoz_8564.jpg?w=1024",
+    "ingredients": ["mutton", "curry powder", "chillis", "onions","basmati rice"],
+    "prepTime": 48,
+    "type": "nonveg-materials",
+    "price":566,
+    "Ratting":"⭐⭐⭐"
+  },
+  {
+    "id": 15,
+    "name": "Fennel, Leek, and Wild Mushroom Gratin",
+    "image": "https://www.realsimple.com/thmb/VmkR_98ULDvj9iRm4B7fPA4ce_E=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1223FEA-Fennel-Leek-and-Mushroom-Gratin-c6b710c0089f4f6bac84ac3d3e0ac489.jpg",
+    "ingredients": ["wild mushrooms", "Gruyere", "parmeson cheese", "garlic" ,"fennel"],
+    "prepTime": 20,
+    "type": "veg-materials",
+    "price":675,
+    "Ratting":"⭐⭐"
+  },
+  {
+    "id": 16,
+    "name": "Surinder’s Chicken Sukha",
+    "image": "https://thefoodfairy.wordpress.com/wp-content/uploads/2014/08/yoz_9241.jpg?w=1024",
+    "ingredients": ["chicken", "curry powder", "garlic", "onions"],
+    "prepTime": 28,
+    "type": "nonveg-materials",
+    "price":452,
+    "Ratting":"⭐⭐"
+  },
+  {
+    "id": 17,
+    "name": "Neha Ryan’s Prawn Curry",
+    "image": "https://thefoodfairy.wordpress.com/wp-content/uploads/2012/08/dsc_7501.jpg?w=768&h=510",
+    "ingredients": ["prawns", "curry powder", "eggs", "onions"],
+    "prepTime": 20,
+    "type": "nonveg-materials",
+    "price":250,
+    "Ratting":"⭐⭐⭐⭐"
+  },
+  {
+    "id": 18,
+    "name": "Cilantro Fish/ Shrimp Curry",
+    "image": "https://thefoodfairy.wordpress.com/wp-content/uploads/2013/08/dsc_4447.jpg?w=1024&h=680",
+    "ingredients": ["Fish", "curry powder", "Tamarind", "onions"],
+    "prepTime": 55,
+    "type": "nonveg-materials",
+    "price":765,
+    "Ratting":"⭐⭐⭐"
+  },
+  {
+    "id": 19,
+    "name": "Skillet Polenta in Creamy Tomato Sauce",
+    "image": "https://www.realsimple.com/thmb/s-ssRh8ah8xYxoiEy_tOFtHOr_k=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/skillet-polenta-in-tomato-sauce-recipe-BFY0222-12a0fcb5d726410aa1ba7f1e10168afe.jpg",
+    "ingredients": ["tomato", "curry powder", "Tamarind", "onions"],
+    "prepTime": 20,
+    "type": "vegetarian",
+    "price":532,
+    "Ratting":"⭐⭐"
+  },
+  {
+    "id": 21,
+    "name": "Crispy Mushroom Reuben Sandwiches",
+    "image": "https://www.realsimple.com/thmb/imAi_xyU0GnDKcOgmfmKrpTtXpk=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/crispy-mushroom-reuben-sandwiches-recipe-0221foo-b89e67ac35924a81ad21fe42dc95b1ee.jpg",
+    "ingredients": ["mushroom", "tomato", "soya souce", "onions"],
+    "prepTime": 20,
+    "type": "vegetarian",
+    "price":654,
+    "Ratting":"⭐⭐⭐⭐"
+  },
+  {
+    "id": 22,
+    "name": "Grasshopper Waffle",
+    "image": "https://www.stonewallkitchen.com/dw/image/v2/BGFW_PRD/on/demandware.static/-/Sites-swk-recipes/default/dw905b9ae0/images/dessertwaffle_grasshopper.jpg?sw=800&sh=800&sm=fit",
+    "ingredients": ["bread", "cream", "ghee", "flavour"],
+    "prepTime": 23,
+    "type": "Deserts & Waffels",
+    "price":654,
+    "Ratting":"⭐⭐⭐"
+  },
+  {
+    "id": 23,
+    "name": "Cilantro Fish/ Shrimp Curry",
+    "image": "https://thefoodfairy.wordpress.com/wp-content/uploads/2013/08/dsc_4447.jpg?w=1024&h=680",
+    "ingredients": ["Fish", "curry powder", "Tamarind", "onions"],
+    "prepTime": 55,
+    "type": "nonveg-materials",
+    "price":765,
+    "Ratting":"⭐⭐⭐"
+  },
+  {
+    "id": 24,
+    "name": "Chocolate Caramel Waffle",
+    "image": "https://www.stonewallkitchen.com/dw/image/v2/BGFW_PRD/on/demandware.static/-/Sites-swk-recipes/default/dw337a349a/images/dessertwaffle_praline.jpg?sw=800&sh=800&sm=fit",
+    "ingredients": ["chocolate", "butterscotc flavour", "soya souce", "nuts"],
+    "prepTime": 50,
+    "type": "Deserts & Waffels",
+    "price":345,
+    "Ratting":"⭐⭐⭐⭐"
+  },
+  {
+    "id": 25,
+    "name": "Peach Melba Waffle",
+    "image": "https://www.stonewallkitchen.com/dw/image/v2/BGFW_PRD/on/demandware.static/-/Sites-swk-recipes/default/dwced77668/images/dessertwaffle_peachmelba.jpg?sw=800&sh=800&sm=fit",
+    "ingredients": ["pineappleflavour", "cream", "soya souce", "bread"],
+    "prepTime": 45,
+    "type": "Deserts & Waffels",
+    "price":245,
+    "Ratting":"⭐⭐"
+  },
+  {
+    "id": 26,
+    "name": "Chocolate Raspberry & Cream Waffle",
+    "image": "https://www.stonewallkitchen.com/dw/image/v2/BGFW_PRD/on/demandware.static/-/Sites-swk-recipes/default/dwd5363a37/images/dessertwaffle_chocolateraspberry.jpg?sw=800&sh=800&sm=fit",
+    "ingredients": ["Raspberry", "chocolate", "soya souce", "cream"],
+    "prepTime": 20,
+    "type": "Deserts & Waffels",
+    "price":250,
+    "Ratting":"⭐⭐⭐"
+  },
+  {
+    "id": 27,
+    "name": "Crispy Mushroom Reuben Sandwiches",
+    "image": "https://www.hersheyland.com/content/dam/hersheyland/en-us/recipes/recipe-images/366-chocolate-dessert-waffles.jpg?im=Resize=(1024)",
+    "ingredients": ["coca", "eggs", "soya souce", "strawberry"],
+    "prepTime": 31,
+    "type": "Deserts & Waffels",
+    "price":200,
+    "Ratting":"⭐⭐⭐"
+  },
+  {
+    "id": 28,
+    "name": "Tin Roof Ice Cream",
+    "image": "https://assets.epicurious.com/photos/5935b2c4f692c10ac01affe6/1:1/w_800%2Cc_limit/Weekend-Warrior-Tin-Roof-Ice-Cream-002.jpg",
+    "ingredients": ["vanilla", "peanuts",  "cream"],
+    "prepTime": 34,
+    "type": "Icecreams",
+    "price":432,
+    "Ratting":"⭐⭐"
+  },
+  {
+    "id": 29,
+    "name": "Peach Melba Waffle",
+    "image": "https://www.stonewallkitchen.com/dw/image/v2/BGFW_PRD/on/demandware.static/-/Sites-swk-recipes/default/dwced77668/images/dessertwaffle_peachmelba.jpg?sw=800&sh=800&sm=fit",
+    "ingredients": ["pineappleflavour", "cream", "soya souce", "bread"],
+    "prepTime": 45,
+    "type": "Deserts & Waffels",
+    "price":245,
+    "Ratting":"⭐⭐"
+  },
+  {
+    "id": 30,
+    "name": "Blackberry and Chocolate Ice Cream Icebox Cake",
+    "image": "https://assets.epicurious.com/photos/60f5b23b2ec81549d28753be/1:1/w_800%2Cc_limit/ChocolateIceBoxCake_RECIPE_071321_18759.jpg",
+    "ingredients": ["blackberry", "fruits", "creame", "gheee"],
+    "prepTime": 21,
+    "type": "Icecreams",
+    "price":278,
+    "Ratting":"⭐⭐⭐⭐"
+  },
+  {
+    "id": 31,
+    "name": "Chocolate Caramel Waffle",
+    "image": "https://www.stonewallkitchen.com/dw/image/v2/BGFW_PRD/on/demandware.static/-/Sites-swk-recipes/default/dw337a349a/images/dessertwaffle_praline.jpg?sw=800&sh=800&sm=fit",
+    "ingredients": ["chocolate", "butterscotc flavour", "soya souce", "nuts"],
+    "prepTime": 50,
+    "type": "Deserts & Waffels",
+    "price":345,
+    "Ratting":"⭐⭐⭐⭐"
+  },
+  {
+    "id": 32,
+    "name": "Pistachio Ice Cream",
+    "image": "https://assets.epicurious.com/photos/6672197b861d670884e9631f/1:1/w_800%2Cc_limit/pistachio-ice-cream_RECIPE_V1_061424_7488_VOG_final.jpg",
+    "ingredients": ["pistachios", "greenhue", "crunch", "rice flavor"],
+    "prepTime": 25,
+    "type": "Icecreams",
+    "price":200,
+    "Ratting":"⭐⭐⭐"
+  },
+  {
+    "id": 33,
+    "name": "Bourbon Butterscotch Ice Cream",
+    "image": "https://assets.epicurious.com/photos/6111415fa9039e455db45d02/1:1/w_800%2Cc_limit/ButterscotchIceCreamSundae_RECIPE_080521_19841.jpg",
+    "ingredients": ["butter", "brown sugar", "chocalate flavor", "bourbon "],
+    "prepTime": 35,
+    "type": "Icecreams",
+    "price":345,
+    "Ratting":"⭐⭐"
+  }
+]

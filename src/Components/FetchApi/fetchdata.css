@@ -1,0 +1,22 @@
+body{
+    background: #000;
+    color: aliceblue;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+td,th{
+    border: 1px solid orange;
+    padding: 8px;
+    
+}
+
+td{
+    color: aqua;
+}
+
+th{
+    color: chartreuse;
+}

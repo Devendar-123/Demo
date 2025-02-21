@@ -1,0 +1,140 @@
+/* product card */
+
+body{
+  background-color: #000;
+}
+.product-card {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 200px;
+    margin: 10px;
+    padding: 15px;
+    transition: all 0.3s ease;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  
+  .product-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+  }
+  
+  .product-card img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 15px;
+  }
+  
+  .product-card h3 {
+    font-size: 1.2rem;
+    font-weight: 600;
+    margin: 10px 0;
+    color: #333;
+  }
+  
+  .product-card p {
+    font-size: 1rem;
+    margin: 5px 0;
+    color: #666;
+  }
+  
+  .product-card p:first-of-type {
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .product-card .price {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #000;
+  }
+  
+  .product-card .rating {
+    font-size: 1rem;
+    color: #ff9800;
+  }
+  
+  @media (max-width: 768px) {
+    .product-card {
+      width: 160px;
+      margin: 10px auto;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .product-card {
+      width: 100%;
+      margin: 10px;
+    }
+  }
+  
+
+  /* product list */
+
+  .product-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 20px;
+    padding: 20px;
+    box-sizing: border-box;
+  }
+  
+  /* filters */
+  
+  .filter-sort {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: #522d52;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+  }
+  
+  .filter-sort select,
+  .filter-sort input {
+    padding: 10px;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    outline: none;
+    transition: all 0.3s ease;
+    width: 150px; /* Set a consistent width */
+  }
+  
+  .filter-sort select:focus,
+  .filter-sort input:focus {
+    border-color: #007bff;
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+  }
+  
+  .filter-sort input {
+    width: 200px; /* For the input field to have a bit more space */
+  }
+  
+  .filter-sort select {
+    flex: 1;
+    max-width: 200px; /* Limit max-width for select elements */
+  }
+  
+  @media (max-width: 768px) {
+    .filter-sort {
+      flex-direction: column; /* Stack the filter options on small screens */
+      align-items: flex-start;
+    }
+  
+    .filter-sort select,
+    .filter-sort input {
+      width: 100%; /* Make each element take full width on mobile */
+      margin-bottom: 10px; /* Add space between each element */
+    }
+  }
+  

@@ -1,0 +1,6 @@
+Git is a distributed version control system that help developers to track changes to files and collaborate on software projects.
+Helps to work on a single project among multiple persons without intrefering with each other changes.
+And it also records history of changes made to files
+
+Concepts of Git:
+Repository:A folder which contains all files of your project including .git folder where all version control information is stored.

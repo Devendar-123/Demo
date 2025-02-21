@@ -1,0 +1,100 @@
+
+[
+    {
+      "id": 1,
+      "name": "IdeaPad Flex 5i 12th Gen, 35.56cms - Intel i5 (Storm Grey)",
+      "price": 50000,
+      "rating": "⭐⭐⭐⭐",
+      "category": "Electronics",
+      "image": "https://p2-ofp.static.pub//fes/cms/2024/06/24/529uhpkn8j2z57v1wc5xajdseb78j8228261.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Arduino UNO R3 SMD Development Board",
+      "price": 2000,
+      "rating": "⭐⭐",
+      "category": "Electronics",
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTHsvMgqymqE678k8N2PlD70N4C87ujxAUYHfdfwIZoeJhlelT2mvZ3X3PqWZNYCN76QmoZKVxNOpw4Zh9G_iUr-QBNYiWAp-IfJjrr8w4uJdHc5em7SEgiCRo"
+    },
+    {
+      "id": 3,
+      "name": "Redmi Note 13 5G",
+      "price": 10000,
+      "rating": "⭐⭐⭐",
+      "category": "Electronics",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTv19m8cPzpBF68vATVoYHcC7zaa8X3tLI3B9dS2MlxmrgV3TTqv6uUnvKgHI4vUBmz-rayhovuKBRrhKvdxJx7JaDy7pQznxYxx5b4118"
+    },
+    {
+      "id": 4,
+      "name": "Portronics Radiant 30W Portable Party Speaker",
+      "price": 5000,
+      "rating": "⭐⭐⭐⭐",
+      "category": "Electronics",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSHv41ES0oANs8BaQqZSdqwtc3YWAOCh9KyAZ7FAA_xOEPzrUoztVPuDRnI7Y1iSVnsoqcdVMbn79zbBsj-khts_LS4k1wh6op8nEPT5MjXGbKmzCIvEIOu"
+    },
+    {
+      "id": 5,
+      "name": "Zara- stripped Poplin Shirt",
+      "price": 300,
+      "rating": "⭐⭐⭐",
+      "category": "Clothing",
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTUsxKYBYN1AH4UrbwVScnjtXBNq7_SKZgdgss8-vqsXBK-cKxGfp_Zc1wCmvLn_0SACgDuINL42OTpfy4wl6dwiy8zQVpIN41ITFIddijM0BPKmuTqfitqWVFV431wg52oiZaLdg0&usqp=CAc"
+    },
+    {
+      "id": 6,
+      "name": "White-Blue Variant shirt",
+      "price": 630,
+      "rating": "⭐⭐⭐⭐",
+      "category": "Clothing",
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSb9PhFXG9OCP0q2sBCw92nMACaJ3EJPjmn286UWohuiFEX2HdcKfLpP3T6_9P_wTl8WHBkg3E4UCvAmYxocmSXHzil8GPCI4-ZWwYkYrgdt_Og2HM-3qDn&usqp=CAc"
+    },
+    {
+      "id": 7,
+      "name": "Rare Rabbit Full sleve shirt",
+      "price": 800,
+      "rating": "⭐⭐⭐",
+      "category": "Clothing",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRvKtvkc0uG90aJbTdv2klMD0-bEx3fXoFVbTRocMKuU-misqdyWQYxCyj5qXbWZpyNp9O7RuagQC80gXdAfO3dpt3-Pc-1YM4nvYAKdY6U-lGDmi3Y-rfSgwoFp1BwfnUAuk3vSKvolEY&usqp=CAc"
+    },
+    {
+      "id": 8,
+      "name": "Zara - Polo Tshirt",
+      "price": 1130,
+      "rating": "⭐⭐⭐",
+      "category": "Clothing",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRSwK33ub7TLOr2fhQ_mOlp0kLtnTEKxCB32ETXsvl1wZWZJNzy4pG_zWwAPSSBF2xIjshgIM_-Mb23q0RMy_k09nNYgEvBnBaIwUkxdDu9-TW6R7oTEGzOUf_zmu68lOk_Kq-YEf8&usqp=CAc"
+    },
+    
+    {
+      "id": 9,
+      "name": "Harry Potter and the Philosopher's Stone",
+      "price": 480,
+      "rating": "⭐⭐⭐⭐",
+      "category": "Books",
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQlMPUYcyU4Qbv-ulofYB0K9GL_eHH0nFOwkXOeGR9flxTA8VRj"
+    },
+    {
+      "id": 10,
+      "name": "The Phychology Of Money",
+      "price": 600,
+      "rating": "⭐⭐⭐⭐",
+      "category": "Books",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRfkgoIueQf0wA0Zhr7jY62SqLQXGhoH_AV2cAc8Eh3LIxxzOvkslymKTWQtVuQhPMyGc38YEgakDW9gjaPauSMLrvw81c4Mz341P86K1V1wPU_8yak5EOAgw"
+    },
+    {
+      "id": 11,
+      "name": "It Ends With Us",
+      "price": 480,
+      "rating": "⭐⭐⭐",
+      "category": "Books",
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSQeTtBnuRaEjFb0atgTfF21viqvBWpdehzGt91j6i0vVov-ZkChNXvgI543u_0YP2-fsq7c5O2shMQfDMyjBAru1pJL_MprrMKMg6RiDlA"
+    },
+    {
+      "id": 12,
+      "name": "Wings of fire: An autobiography",
+      "price": 590,
+      "rating": "⭐⭐⭐⭐",
+      "category": "Books",
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSVoARZ9vYPsfq-QnD2US7A-BPaZ7IN9xLkTMmS1Y7jo0nhY8E1JOSVV9wfj0ne0QOdzTFM7dCiewQtR7dxB0SxxF7oRd9fpOq1BcD6sjoyUc6lNcO5fyPNig"
+    }
+  ]

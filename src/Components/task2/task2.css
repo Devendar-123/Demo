@@ -1,0 +1,143 @@
+
+.container {
+    width: 100%;
+    /* max-width: 1200px; */
+    margin: 0 auto;
+    padding: 20px;
+    box-sizing: border-box;
+    font-family: 'Arial', sans-serif;
+    background: #000;
+    color: white;
+  }
+  
+  /* SearchBar and Filters Section */
+  .container > .search-bar, 
+  .container > .filter-bar {
+    margin-bottom: 20px;
+    width: 90%;
+    padding: 10px;
+    margin-left: 50px;
+  }
+  
+  /* RecipeList Section */
+  .recipe-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 20px;
+  }
+  
+  /* Styling for RecipeCard */
+  .recipe-card {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    max-width: 300px;
+    margin: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    text-align: center;
+  }
+  
+  .recipe-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  .recipe-card img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 8px;
+  }
+  
+  .recipe-card h3 {
+    font-size: 18px;
+    margin-top: 10px;
+    color: #333;
+  }
+  
+  .recipe-card p {
+    font-size: 14px;
+    color: #555;
+    margin: 5px 0;
+  }
+  
+  .recipe-card p strong {
+    color: #333;
+  }
+  
+  /* Styling for SearchBar */
+  .search-bar input {
+    padding: 10px 15px;
+    font-size: 16px;
+    width: 100%;
+    
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #fff;
+    transition: border-color 0.3s;
+    margin-bottom: 20px;
+  }
+  
+  .search-bar input:focus {
+    border-color: #007bff;
+    outline: none;
+  }
+  
+  .search-bar input::placeholder {
+    color: #888;
+  }
+  
+  /* Styling for Filters */
+  .filter-bar {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .filter-bar select {
+    padding: 8px 12px;
+    font-size: 16px;
+    width: 100%;
+    /* max-width: 200px; */
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #fff;
+    cursor: pointer;
+    transition: border-color 0.3s;
+  }
+  
+  .filter-bar select:focus {
+    border-color: #007bff;
+    outline: none;
+  }
+  
+  /* Responsive Layout */
+  @media (max-width: 768px) {
+    .filter-bar {
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    .filter-bar select {
+      max-width: 100%;
+      margin-bottom: 10px;
+    }
+  
+    .recipe-list {
+      justify-content: center;
+    }
+  }
+  
+  @media (max-width: 600px) {
+    .recipe-card {
+      max-width: 100%;
+      margin: 10px auto;
+    }
+  
+    .recipe-card img {
+      height: 180px;
+    }
+  }
+  
